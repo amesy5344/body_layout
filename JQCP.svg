@@ -20,39 +20,39 @@
   <rect fill="#ffff56" stroke="#000" stroke-width="1.5" x="158.5" y="226.45313" width="153" height="37" id="SUR"/>
   <rect fill="#ffff56" stroke="#000" stroke-width="1.5" x="158.5" y="273.45313" width="153" height="44" id="SUB"/>
   <rect fill="#ffff56" stroke="#000" stroke-width="1.5" x="323.5" y="218.45313" width="145" height="73" id="BSO"/>
-  <rect fill="#999999" stroke="#000" stroke-width="1.5" x="26.5" y="69.45313" width="20" height="40" id="REPAIR"/>
-  <rect fill="#999999" stroke="#000" stroke-width="1.5" x="19.5" y="120.45313" width="99" height="43" id="BSI G"/>
+  <rect fill="#999999" stroke="#000" stroke-width="1.5" x="26.5" y="69.45313" width="20" height="40" id="Repair"/>
+  <rect fill="#999999" stroke="#000" stroke-width="1.5" x="19.5" y="120.45313" width="99" height="43" id="BSI"/>
   <rect fill="#999999" stroke="#000" stroke-width="1.5" x="19.5" y="298.45313" width="131" height="26" id="project"/>
   <rect fill="#999999" stroke="#000" stroke-width="1.5" x="14.5" y="332.45313" width="59" height="46" id="lab"/>
   <rect fill="#999999" stroke="#000" stroke-width="1.5" x="84.5" y="332.45313" width="154" height="46" id="SUB"/>
   <rect fill="#999999" stroke="#000" stroke-width="1.5" x="404.5" y="300.45313" width="55" height="77" id="project"/>
   <path fill="#ffff56" stroke="#000" stroke-width="1.5" d="m136.5,105.5l330,0l0,50l-75,0l-10,10l-80,0l-10,-10l-80,0l-10,10l-65,0l0,-60z" id="SFO"/>
-  <path fill="#ffff56" stroke="#000" stroke-width="1.5" d="m132.5,175.45313l70,0l10,-10l80,0l10,10l115,0l0,35l-100,0l-10,10l-175,0l0,-45z" id="svg_21"/>
+  <path fill="#ffff56" stroke="#000" stroke-width="1.5" d="m132.5,175.45313l70,0l10,-10l80,0l10,10l115,0l0,35l-100,0l-10,10l-175,0l0,-45z" id="SFI"/>
   <path fill="#ffff56" stroke="#000" stroke-width="1.5" d="m245.5,330.45313l78,0l0,-30l75,0l0,78l-153,0l0,-48z" id="SSO"/>
-  <rect fill="#aa56ff" stroke="#000" stroke-width="1.5" x="469.5" y="343.45313" width="149" height="34" id="svg_23"/>
-  <rect fill="#aa56ff" stroke-width="1.5" x="665.5" y="252.45313" width="31" height="22" id="svg_24" stroke="#000"/>
+  <rect fill="#aa56ff" stroke="#000" stroke-width="1.5" x="469.5" y="343.45313" width="149" height="34" id="ALUB"/>
+  <rect fill="#aa56ff" stroke-width="1.5" x="665.5" y="252.45313" width="31" height="22" id="Project" stroke="#000"/>
   <path fill="#aa56ff" stroke="#000" stroke-width="1.5" d="m624.5,339.45313l10,0l10,-10l120,0l0,49l-140,0l0,-39z" id="AMC"/>
   <path fill="#aa56ff" stroke-width="1.5" d="m479.49154,284.45313l69.17556,0l9.88222,-10l69.17556,0l13.83511,14l88.94001,0l0,32l-93.88112,0l-11.85867,12l-147,0l0,-48l3.46265,0l-1.73132,0z" id="AFI" stroke="#000"/>
   <path fill="#aa56ff" stroke="#000" stroke-width="1.5" d="m477.69181,247.69205l80,0l0,18l-15,0l-10,10l-55,0l0,-28z" id="ASI"/>
   <path fill="#aa56ff" stroke="#000" stroke-width="1.5" d="m477.38412,207.69209l75,0l10,-10l55,0l10,-10l68,0l20,20l50,0l0,30l-45,0l-10,10l-95,0l0,15l-45,0l0,-24l-93,0l0,-20l0,-11z" id="AFO"/>
   <path fill="#aa56ff" stroke="#000" stroke-width="1.5" d="m620.99936,251.99974l40,0l0,22l-20,0l-10,-10l-10,0l0,-12z" id="FDR"/>
   <path fill="#aa56ff" stroke="#000" stroke-width="1.5" d="m699.99927,252.76897l13,0l5,-5l47,0l0,28l-64.7,0l-0.3,-23z" id="ASO"/>
-  <rect fill="#56ffaa" stroke-width="1.5" x="500.76871" y="36.53843" width="34.61535" height="24.99997" id="svg_34" stroke="#000"/>
-  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="469.99951" y="66.15378" width="64.61532" height="31.53843" id="svg_35"/>
-  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="476.15335" y="103.84605" width="54.61533" height="50.76918" id="svg_36"/>
+  <rect fill="#56ffaa" stroke-width="1.5" x="500.76871" y="36.53843" width="34.61535" height="24.99997" id="FDR" stroke="#000"/>
+  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="469.99951" y="66.15378" width="64.61532" height="31.53843" id="FDR"/>
+  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="476.15335" y="103.84605" width="54.61533" height="50.76918" id="DL Laser"/>
   <rect fill="#56ffaa" stroke-width="1.5" x="643.61472" y="33.84612" width="35.38458" height="62.30763" id="svg_37" stroke="#000"/>
-  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="643.08295" y="99.9999" width="35.38458" height="56.92302" id="svg_38"/>
+  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="643.08295" y="99.9999" width="35.38458" height="56.92302" id="DR INR"/>
   <rect fill="#56ffaa" stroke-width="1.5" x="689.07621" y="33.53843" width="33.84612" height="60.76917" id="svg_39" stroke="#000"/>
-  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="686.68966" y="97.93103" width="35.86207" height="27.58621" id="svg_40"/>
-  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="687.37931" y="128.27586" width="35.17241" height="26.2069" id="svg_41"/>
-  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="731.89655" y="31.72414" width="33.7931" height="63.44828" id="svg_42"/>
-  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="731.89655" y="97.93103" width="33.7931" height="26.89655" id="svg_43"/>
-  <rect fill="#56ffaa" stroke-width="1.5" x="732.2069" y="128.27586" width="33.17241" height="26.2069" id="svg_44" stroke="#000"/>
-  <path fill="#56ffaa" stroke-width="1.5" d="m552.2069,36.10345l35,0l0,59.5082l-10,9.91803l0,51.57377l-40,0l0,-51.57377l10,-9.91803l0,-59.5082l5,0z" id="svg_46" stroke="#000"/>
-  <path fill="#56ffaa" stroke="#000" stroke-width="1.5" d="m595.83508,35.10345l35,0l0,122l-45,0l0,-50l10,-10l0,-62z" id="svg_47"/>
-  <path stroke="#000" fill="#56ffaa" stroke-width="1.5" d="m476.55172,165.82759l145,0l0,18l-8,8l-55,0l-9,9l-73,0l0,-21l0,-14z" id="svg_48"/>
-  <path fill="#999999" stroke="#000" stroke-width="1.5" d="m628.96552,165.82759l138,0l0,29l-53,0l-12,-12l-72.8,0l-0.2,-17z" id="svg_49"/>
-  <rect fill="#999999" stroke-width="1.5" x="736.10345" y="288.2069" width="26.27586" height="32.72414" id="svg_50" stroke="#000"/>
+  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="686.68966" y="97.93103" width="35.86207" height="27.58621" id="DR INR"/>
+  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="687.37931" y="128.27586" width="35.17241" height="26.2069" id="DR INR"/>
+  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="731.89655" y="31.72414" width="33.7931" height="63.44828" id="RR DR"/>
+  <rect fill="#56ffaa" stroke="#000" stroke-width="1.5" x="731.89655" y="97.93103" width="33.7931" height="26.89655" id="DR INR"/>
+  <rect fill="#56ffaa" stroke-width="1.5" x="732.2069" y="128.27586" width="33.17241" height="26.2069" id="DR INR" stroke="#000"/>
+  <path fill="#56ffaa" stroke-width="1.5" d="m552.2069,36.10345l35,0l0,59.5082l-10,9.91803l0,51.57377l-40,0l0,-51.57377l10,-9.91803l0,-59.5082l5,0z" id="HD&DL" stroke="#000"/>
+  <path fill="#56ffaa" stroke="#000" stroke-width="1.5" d="m595.83508,35.10345l35,0l0,122l-45,0l0,-50l10,-10l0,-62z" id="DR"/>
+  <path stroke="#000" fill="#56ffaa" stroke-width="1.5" d="m476.55172,165.82759l145,0l0,18l-8,8l-55,0l-9,9l-73,0l0,-21l0,-14z" id="HD/LG"/>
+  <path fill="#999999" stroke="#000" stroke-width="1.5" d="m628.96552,165.82759l138,0l0,29l-53,0l-12,-12l-72.8,0l-0.2,-17z" id="Project"/>
+  <rect fill="#999999" stroke-width="1.5" x="736.10345" y="288.2069" width="26.27586" height="32.72414" id="Project" stroke="#000"/>
   <text fill="#000000" stroke-width="0" x="232.79336" y="76.99988" id="MF" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.6102022528648376,0,0,0.5940658450126648,75.19442165829241,8.791011543944478) " stroke="#000">MF</text>
   <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="59.46302" y="105.75213" id="RF" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.5833320021629333,0,0,0.6563160419464111,26.556074424646795,21.480247378349304) " stroke="#000">RF</text>
   <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="62.49874" y="279.82613" id="SMC" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.626056357789853,0,0,0.6252915859222412,25.296689255034128,90.24032478407025) " stroke="#000">SMC</text>
